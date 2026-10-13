@@ -1,6 +1,8 @@
 # Furniture Image Classifier
 
-This project trains a neural network to recognise five types of furniture: beds, desks, lamps, sofas, and wardrobes, using a small image dataset. It adapts a pre-trained network (AlexNet) for the task, explores what the network has learned to look for in images, and then experiments with making it smaller via filter selection.
+AlexNet is the Neural Network famously used by Geoffrey Hinton, Ilya Sutskever and Alex Krizhevsky to win the 2012 ImageNet Large Scale Visual Recognition Challenge. Their success proved the effectiveness of deep covolutional neural networks in Computer Vision, and demonstrated the use of GPUs to accelerate deep learning.
+
+This project fine tunes the pre-trained AlexNet to recognise five types of furniture: beds, desks, lamps, sofas, and wardrobes, using a small image dataset (furniture.zip). It then explores what the network has learned to look for in images and experiments with making the network smaller via filter selection.
 
 ## Getting started
 
