@@ -1,6 +1,3 @@
-LINKS
-Video : https://youtu.be/aM9K2Cgu_fw
-Dataset: https://drive.google.com/drive/folders/117doQ-TqMB9BOR7Sa-Y5byV57aVDzE4q?usp=sharing
 # Furniture Image Classifier
 
 This project trains a neural network to recognise five types of furniture: beds, desks, lamps, sofas, and wardrobes, using a small image dataset. It adapts a pre-trained network (AlexNet) for the task, explores what the network has learned to look for in images, and then experiments with making it smaller via filter selection.
